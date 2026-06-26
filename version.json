@@ -2,7 +2,7 @@
   "latestVersionCode": 1,
   "latestVersionName": "1.0.1",
   "updateLog": "1.初始版本上线\n2.优化图片压缩速度",
-  "downloadUrlCN": "https://raw.giteeusercontent.com/xieyuesu/compress/raw/master/app-release.apk?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJhcHAtcmVsZWFzZS5hcGsiLCJ1aWQiOjE3MjUxNDA2LCJwaWQiOjQ4NzUyOTExLCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTQydC0wMjkiLCJycCI6InJlcG9zLzlkL2U4LzlkZThlOGVlMWE4YWM3MTE1MzVkNjc2OWU0ODFkYjhmZDM5NjA2MjkxOTczOTZjMTYxOTRhY2E2ZmRkNWZkZTIuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3ODI0NjA4MDB9&signature=EWBM_guqYlbTnX13Ig7TWdJxsspPvDfegTLdfTDPBok",
+  "downloadUrlCN": "https://raw.giteeusercontent.com/xieyuesu/compress/raw/master/app-release.apk",
   "downloadUrlOversea": "https://github.com/XieYueSu/Compress/releases/download/v1.0.1/app-release.apk",
   "forceUpdate": false
 }
